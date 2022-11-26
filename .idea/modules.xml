@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DynamicPrograms.iml" filepath="$PROJECT_DIR$/DynamicPrograms.iml" />
       <module fileurl="file://$PROJECT_DIR$/Longest Palindromic Substring/Longest Palindromic Substring.iml" filepath="$PROJECT_DIR$/Longest Palindromic Substring/Longest Palindromic Substring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LongestIncreasingSubsequence/LongestIncreasingSubsequence.iml" filepath="$PROJECT_DIR$/LongestIncreasingSubsequence/LongestIncreasingSubsequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MakingChange/MakingChange.iml" filepath="$PROJECT_DIR$/MakingChange/MakingChange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaxContiguousSubsequence/MaxContiguousSubsequence.iml" filepath="$PROJECT_DIR$/MaxContiguousSubsequence/MaxContiguousSubsequence.iml" />
     </modules>
   </component>
 </project>
